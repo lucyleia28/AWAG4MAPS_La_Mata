@@ -6,15 +6,15 @@
 
 #map {
     border: solid 0.2em #D0D4D8;
-    height: 70em;
-    width: 50em;
+    height: 60em;
+    width: 65em;
 }
 
 #info {
     background-color: #F9F9F9;
     border: solid #D0D4D8;
-    width: 50em;
-    max-height: 70em;
+    width: 40em;
+    max-height: 65em;
 }
 
 #infoElements {
