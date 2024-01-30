@@ -7,14 +7,14 @@
 #map {
     border: solid 0.2em #D0D4D8;
     height: 60em;
-    width: 65em;
+    width: 70em;
 }
 
 #info {
     background-color: #F9F9F9;
     border: solid #D0D4D8;
     width: 40em;
-    max-height: 65em;
+    max-height: 70em;
 }
 
 #infoElements {
