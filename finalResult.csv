@@ -1,0 +1,478 @@
+id,comName,sciName,howMany,locName,locId,lat,lng,obsDt
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115535,Barn Swallow,Hirundo rustica,60,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2248259977,Black-headed Gull,Chroicocephalus ridibundus,2,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2248259975,Western House-Martin,Delichon urbicum,70,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115525,Common Swift,Apus apus,7,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115531,Common Wood-Pigeon,Columba palumbus,6,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115527,European Bee-eater,Merops apiaster,1,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828332,European Bee-eater,Merops apiaster,3,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2227869789,European Bee-eater,Merops apiaster,3,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115529,Eurasian Collared-Dove,Streptopelia decaocto,2,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115530,European Goldfinch,Carduelis carduelis,6,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115534,European Greenfinch,Chloris chloris,2,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115539,Eurasian Kestrel,Falco tinnunculus,1,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828329,Eurasian Linnet,Linaria cannabina,2,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2227869786,Eurasian Linnet,Linaria cannabina,2,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115532,Common Reed Warbler,Acrocephalus scirpaceus,1,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115536,Eurasian Thick-knee,Burhinus oedicnemus,1,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2227869787,Greater Flamingo,Phoenicopterus roseus,3,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828330,Greater Flamingo,Phoenicopterus roseus,3,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115533,Gull-billed Tern,Gelochelidon nilotica,8,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115526,House Sparrow,Passer domesticus,7,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115523,Montagu's Harrier,Circus pygargus,4,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115528,Red-rumped Swallow,Cecropis daurica,4,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115537,Sardinian Warbler,Curruca melanocephala,4,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115538,European Stonechat,Saxicola rubicola,5,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230115524,Western Marsh Harrier,Circus aeruginosus,1,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2248259976,Yellow-legged Gull,Larus michahellis,1,Pink Lake Viewpoint,L18511688,38.0193592,-0.7402039,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228106641,Black-headed Gull,Chroicocephalus ridibundus,1,Urb. Lago Sol,L18638571,37.9664917,-0.7300472,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828323,Black-headed Gull,Chroicocephalus ridibundus,1,Urb. Lago Sol,L18638571,37.9664917,-0.7300472,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828322,Black-winged Stilt,Himantopus himantopus,3,Urb. Lago Sol,L18638571,37.9664917,-0.7300472,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228106640,Black-winged Stilt,Himantopus himantopus,3,Urb. Lago Sol,L18638571,37.9664917,-0.7300472,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828327,Eurasian Thick-knee,Burhinus oedicnemus,1,Urb. Lago Sol,L18638571,37.9664917,-0.7300472,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228106645,Eurasian Thick-knee,Burhinus oedicnemus,1,Urb. Lago Sol,L18638571,37.9664917,-0.7300472,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828326,Eurasian Hoopoe,Upupa epops,1,Urb. Lago Sol,L18638571,37.9664917,-0.7300472,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228106644,Eurasian Hoopoe,Upupa epops,1,Urb. Lago Sol,L18638571,37.9664917,-0.7300472,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875876,Audouin's Gull,Ichthyaetus audouinii,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875868,Bank Swallow,Riparia riparia,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285795,Barn Swallow,Hirundo rustica,4,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875875,Black-headed Gull,Chroicocephalus ridibundus,10,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875864,Black-winged Stilt,Himantopus himantopus,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285784,Black-winged Stilt,Himantopus himantopus,6,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285812,Cetti's Warbler,Cettia cetti,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285794,Western House-Martin,Delichon urbicum,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875871,Western House-Martin,Delichon urbicum,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875865,Common Shelduck,Tadorna tadorna,14,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285792,Common Shelduck,Tadorna tadorna,13,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285802,Common Swift,Apus apus,10,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875880,Common Swift,Apus apus,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875882,Common Tern,Sterna hirundo,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285780,Common Wood-Pigeon,Columba palumbus,35,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875870,Common Wood-Pigeon,Columba palumbus,6,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285801,Crested Lark,Galerida cristata,5,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285783,Eared Grebe,Podiceps nigricollis,6,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285800,Eurasian Collared-Dove,Streptopelia decaocto,5,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875878,Eurasian Collared-Dove,Streptopelia decaocto,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285788,Eurasian Blackbird,Turdus merula,6,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875872,European Goldfinch,Carduelis carduelis,3,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285789,European Goldfinch,Carduelis carduelis,4,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285781,Eurasian Kestrel,Falco tinnunculus,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875883,Eurasian Kestrel,Falco tinnunculus,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285786,European Turtle-Dove,Streptopelia turtur,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285790,Eurasian Thick-knee,Burhinus oedicnemus,3,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285777,Greater Flamingo,Phoenicopterus roseus,14,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875866,Greater Flamingo,Phoenicopterus roseus,18,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285787,Great Tit,Parus major,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285805,Iberian Green Woodpecker,Picus sharpei,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285807,Eurasian Hoopoe,Upupa epops,5,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285778,House Sparrow,Passer domesticus,6,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285782,Iberian Gray Shrike,Lanius meridionalis,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285779,Kentish Plover,Anarhynchus alexandrinus,3,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285806,Little Owl,Athene noctua,3,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285811,Little Tern,Sternula albifrons,6,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875874,Mallard,Anas platyrhynchos,7,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285797,Mediterranean Gull,Ichthyaetus melanocephalus,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875873,Mediterranean Gull,Ichthyaetus melanocephalus,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285809,Mistle Thrush,Turdus viscivorus,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285799,Monk Parakeet,Myiopsitta monachus,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285808,Pallid Swift,Apus pallidus,5,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875881,Pied Avocet,Recurvirostra avosetta,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285810,Red-legged Partridge,Alectoris rufa,12,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875877,Rock Pigeon,Columba livia,3,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285803,Sandwich Tern,Thalasseus sandvicensis,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285798,Sardinian Warbler,Curruca melanocephala,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875867,Sardinian Warbler,Curruca melanocephala,3,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875879,Slender-billed Gull,Chroicocephalus genei,7,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285791,Slender-billed Gull,Chroicocephalus genei,100,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285804,Spotted Flycatcher,Muscicapa striata,3,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285796,White Wagtail,Motacilla alba,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285793,Yellow-legged Gull,Larus michahellis,10,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2270875869,Yellow-legged Gull,Larus michahellis,18,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,25/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2277285785,Zitting Cisticola,Cisticola juncidis,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,28/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350972994,Audouin's Gull,Ichthyaetus audouinii,5,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985894,Audouin's Gull,Ichthyaetus audouinii,5,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350972992,Black-bellied Plover,Pluvialis squatarola,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985892,Black-bellied Plover,Pluvialis squatarola,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350972980,Black-winged Stilt,Himantopus himantopus,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985880,Black-winged Stilt,Himantopus himantopus,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350972987,Common Shelduck,Tadorna tadorna,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985887,Common Shelduck,Tadorna tadorna,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350973007,Eared Grebe,Podiceps nigricollis,13,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985907,Eared Grebe,Podiceps nigricollis,13,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985910,Eurasian Kestrel,Falco tinnunculus,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350973010,Eurasian Kestrel,Falco tinnunculus,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985905,European Turtle-Dove,Streptopelia turtur,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350973005,European Turtle-Dove,Streptopelia turtur,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350972978,Eurasian Thick-knee,Burhinus oedicnemus,5,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985878,Eurasian Thick-knee,Burhinus oedicnemus,5,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350973006,Great Tit,Parus major,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985906,Great Tit,Parus major,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985896,Iberian Gray Shrike,Lanius meridionalis,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350972996,Iberian Gray Shrike,Lanius meridionalis,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350973009,Kentish Plover,Anarhynchus alexandrinus,12,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985909,Kentish Plover,Anarhynchus alexandrinus,12,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985877,Little Owl,Athene noctua,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350972977,Little Owl,Athene noctua,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350972981,Montagu's Harrier,Circus pygargus,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985881,Montagu's Harrier,Circus pygargus,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985902,Monk Parakeet,Myiopsitta monachus,3,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350973002,Monk Parakeet,Myiopsitta monachus,3,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985886,Red-legged Partridge,Alectoris rufa,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350972986,Red-legged Partridge,Alectoris rufa,1,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350972998,Red-rumped Swallow,Cecropis daurica,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985898,Red-rumped Swallow,Cecropis daurica,2,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350985884,Whimbrel,Numenius phaeopus,10,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2350972984,Whimbrel,Numenius phaeopus,10,Lagunas de la Mata y Torrevieja PNat--Area General,L3906629,38.0238218,-0.6834269,29/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608234,Audouin's Gull,Ichthyaetus audouinii,2,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608244,Barn Swallow,Hirundo rustica,3,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608238,Black-headed Gull,Chroicocephalus ridibundus,1,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608240,Black-winged Stilt,Himantopus himantopus,24,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608230,Common Shelduck,Tadorna tadorna,19,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608247,Common Tern,Sterna hirundo,3,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608235,Crested Lark,Galerida cristata,2,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608248,Eurasian Kestrel,Falco tinnunculus,1,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608233,Eurasian Tree Sparrow,Passer montanus,1,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608245,Greater Flamingo,Phoenicopterus roseus,60,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608229,Gull-billed Tern,Gelochelidon nilotica,12,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608236,House Sparrow,Passer domesticus,5,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608231,Iberian Gray Shrike,Lanius meridionalis,1,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608232,Kentish Plover,Anarhynchus alexandrinus,7,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608241,Mediterranean Gull,Ichthyaetus melanocephalus,2,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608242,Montagu's Harrier,Circus pygargus,1,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608237,Pallid Swift,Apus pallidus,6,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608246,Red-rumped Swallow,Cecropis daurica,1,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608243,Sardinian Warbler,Curruca melanocephala,2,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2315608239,Woodchat Shrike,Lanius senator,1,Lagunas de la Mata y Torrevieja PNat--Observatorio La Mata Norte,L6121783,38.0340240,-0.7130020,14/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851936,Audouin's Gull,Ichthyaetus audouinii,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419616,Audouin's Gull,Ichthyaetus audouinii,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2258135899,Barn Swallow,Hirundo rustica,5,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,20/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436884,Barn Swallow,Hirundo rustica,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851954,Barn Swallow,Hirundo rustica,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851926,Black-headed Gull,Chroicocephalus ridibundus,2,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419606,Black-headed Gull,Chroicocephalus ridibundus,2,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851923,Black-winged Stilt,Himantopus himantopus,2,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419603,Black-winged Stilt,Himantopus himantopus,2,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419620,Western Cattle Egret,Bubulcus ibis,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851940,Western Cattle Egret,Bubulcus ibis,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851955,Western House-Martin,Delichon urbicum,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436885,Western House-Martin,Delichon urbicum,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851932,Common Nightingale,Luscinia megarhynchos,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419612,Common Nightingale,Luscinia megarhynchos,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436886,Common Swift,Apus apus,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851956,Common Swift,Apus apus,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2258135902,Common Tern,Sterna hirundo,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,20/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851953,Common Wood-Pigeon,Columba palumbus,6,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436883,Common Wood-Pigeon,Columba palumbus,6,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851941,Crested Lark,Galerida cristata,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419621,Crested Lark,Galerida cristata,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419624,Eurasian Collared-Dove,Streptopelia decaocto,9,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2258135901,Eurasian Collared-Dove,Streptopelia decaocto,2,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,20/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851944,Eurasian Collared-Dove,Streptopelia decaocto,9,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419617,Eurasian Blackbird,Turdus merula,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851937,Eurasian Blackbird,Turdus merula,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436879,European Goldfinch,Carduelis carduelis,4,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851949,European Goldfinch,Carduelis carduelis,4,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419623,European Greenfinch,Chloris chloris,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851943,European Greenfinch,Chloris chloris,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2258135903,Eurasian Kestrel,Falco tinnunculus,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,20/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436877,Eurasian Kestrel,Falco tinnunculus,4,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851947,Eurasian Kestrel,Falco tinnunculus,4,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419611,Eurasian Linnet,Linaria cannabina,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851931,Eurasian Linnet,Linaria cannabina,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2271675926,Eurasian Linnet,Linaria cannabina,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,20/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419619,Eurasian Magpie,Pica pica,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851939,Eurasian Magpie,Pica pica,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851957,European Serin,Serinus serinus,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436887,European Serin,Serinus serinus,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851928,Common Reed Warbler,Acrocephalus scirpaceus,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419608,Common Reed Warbler,Acrocephalus scirpaceus,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419625,Eurasian Thick-knee,Burhinus oedicnemus,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851945,Eurasian Thick-knee,Burhinus oedicnemus,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419604,Greater Flamingo,Phoenicopterus roseus,4,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851924,Greater Flamingo,Phoenicopterus roseus,4,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419614,Great Tit,Parus major,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851934,Great Tit,Parus major,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851933,Iberian Green Woodpecker,Picus sharpei,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419613,Iberian Green Woodpecker,Picus sharpei,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419609,Eurasian Hoopoe,Upupa epops,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851929,Eurasian Hoopoe,Upupa epops,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851942,House Sparrow,Passer domesticus,120,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419622,House Sparrow,Passer domesticus,120,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851925,Kentish Plover,Anarhynchus alexandrinus,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419605,Kentish Plover,Anarhynchus alexandrinus,3,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851958,Mediterranean Gull,Ichthyaetus melanocephalus,2,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436888,Mediterranean Gull,Ichthyaetus melanocephalus,2,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419615,Monk Parakeet,Myiopsitta monachus,18,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851935,Monk Parakeet,Myiopsitta monachus,18,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851950,Pallid Swift,Apus pallidus,6,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436880,Pallid Swift,Apus pallidus,6,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2258135900,Red-rumped Swallow,Cecropis daurica,2,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,20/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419618,Red-rumped Swallow,Cecropis daurica,2,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851938,Red-rumped Swallow,Cecropis daurica,2,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436882,Rock Pigeon,Columba livia,40,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851952,Rock Pigeon,Columba livia,40,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436876,Sardinian Warbler,Curruca melanocephala,6,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851946,Sardinian Warbler,Curruca melanocephala,6,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851930,Spotted Flycatcher,Muscicapa striata,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209419610,Spotted Flycatcher,Muscicapa striata,1,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436878,Spotless Starling,Sturnus unicolor,4,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851948,Spotless Starling,Sturnus unicolor,4,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2209436881,Yellow-legged Gull,Larus michahellis,4,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851951,Yellow-legged Gull,Larus michahellis,4,Lagunas de la Mata y Torrevieja PNat--Laguna de Torrevieja,L6121785,37.9944852,-0.7083263,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230858,Audouin's Gull,Ichthyaetus audouinii,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546092,Audouin's Gull,Ichthyaetus audouinii,20,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848447,Barn Swallow,Hirundo rustica,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230871,Barn Swallow,Hirundo rustica,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546090,Barn Swallow,Hirundo rustica,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826652,Barn Swallow,Hirundo rustica,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796302,Barn Swallow,Hirundo rustica,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797433,Barn Swallow,Hirundo rustica,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796308,Black-bellied Plover,Pluvialis squatarola,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2232808107,Black-bellied Plover,Pluvialis squatarola,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826657,Black-bellied Plover,Pluvialis squatarola,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848452,Black-bellied Plover,Pluvialis squatarola,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797439,Black-bellied Plover,Pluvialis squatarola,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796319,Black-headed Gull,Chroicocephalus ridibundus,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797450,Black-headed Gull,Chroicocephalus ridibundus,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796324,Black-winged Stilt,Himantopus himantopus,9,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848458,Black-winged Stilt,Himantopus himantopus,19,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826663,Black-winged Stilt,Himantopus himantopus,19,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797455,Black-winged Stilt,Himantopus himantopus,9,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828293,Black-winged Stilt,Himantopus himantopus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546105,Black-winged Stilt,Himantopus himantopus,8,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230869,Black-winged Stilt,Himantopus himantopus,13,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228408272,Black-winged Stilt,Himantopus himantopus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546082,Collared Pratincole,Glareola pratincola,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796307,Common Cuckoo,Cuculus canorus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797438,Common Cuckoo,Cuculus canorus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826655,Western House-Martin,Delichon urbicum,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796329,Western House-Martin,Delichon urbicum,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797460,Western House-Martin,Delichon urbicum,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848450,Western House-Martin,Delichon urbicum,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796330,Common Shelduck,Tadorna tadorna,20,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230872,Common Shelduck,Tadorna tadorna,40,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546088,Common Shelduck,Tadorna tadorna,60,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797461,Common Shelduck,Tadorna tadorna,20,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848470,Common Shelduck,Tadorna tadorna,104,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826675,Common Shelduck,Tadorna tadorna,104,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826650,Common Swift,Apus apus,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797452,Common Swift,Apus apus,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546102,Common Swift,Apus apus,10,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230876,Common Swift,Apus apus,14,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796321,Common Swift,Apus apus,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848445,Common Swift,Apus apus,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2232808105,Common Tern,Sterna hirundo,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848457,Common Ringed Plover,Charadrius hiaticula,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826662,Common Ringed Plover,Charadrius hiaticula,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2232808097,Common Ringed Plover,Charadrius hiaticula,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230867,Common Wood-Pigeon,Columba palumbus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2232808111,Common Wood-Pigeon,Columba palumbus,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546104,Common Wood-Pigeon,Columba palumbus,14,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797428,Common Wood-Pigeon,Columba palumbus,12,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848456,Common Wood-Pigeon,Columba palumbus,10,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796297,Common Wood-Pigeon,Columba palumbus,12,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826661,Common Wood-Pigeon,Columba palumbus,10,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797432,Crested Lark,Galerida cristata,10,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826654,Crested Lark,Galerida cristata,6,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796301,Crested Lark,Galerida cristata,10,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828305,Crested Lark,Galerida cristata,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848449,Crested Lark,Galerida cristata,6,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2213181390,Crested Lark,Galerida cristata,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228411584,Crested Lark,Galerida cristata,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2232808100,Crested Lark,Galerida cristata,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546091,Crested Lark,Galerida cristata,6,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848473,Eared Grebe,Podiceps nigricollis,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211830128,Eared Grebe,Podiceps nigricollis,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546076,Eared Grebe,Podiceps nigricollis,180,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848451,Western Yellow Wagtail,Motacilla flava,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826656,Western Yellow Wagtail,Motacilla flava,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2213181391,Eurasian Collared-Dove,Streptopelia decaocto,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546079,Eurasian Collared-Dove,Streptopelia decaocto,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826667,Eurasian Collared-Dove,Streptopelia decaocto,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797443,Eurasian Collared-Dove,Streptopelia decaocto,7,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796312,Eurasian Collared-Dove,Streptopelia decaocto,7,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848462,Eurasian Collared-Dove,Streptopelia decaocto,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797459,Eurasian Golden Oriole,Oriolus oriolus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796328,Eurasian Golden Oriole,Oriolus oriolus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797431,Eurasian Blackbird,Turdus merula,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211830129,Eurasian Blackbird,Turdus merula,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230882,Eurasian Blackbird,Turdus merula,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848474,Eurasian Blackbird,Turdus merula,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828298,Eurasian Blackbird,Turdus merula,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228411577,Eurasian Blackbird,Turdus merula,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796300,Eurasian Blackbird,Turdus merula,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546100,Eurasian Blackbird,Turdus merula,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848469,Eurasian Crag-Martin,Ptyonoprogne rupestris,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826674,Eurasian Crag-Martin,Ptyonoprogne rupestris,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848463,European Goldfinch,Carduelis carduelis,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230877,European Goldfinch,Carduelis carduelis,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828292,European Goldfinch,Carduelis carduelis,5,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228408271,European Goldfinch,Carduelis carduelis,5,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796305,European Goldfinch,Carduelis carduelis,20,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546101,European Goldfinch,Carduelis carduelis,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826668,European Goldfinch,Carduelis carduelis,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797436,European Goldfinch,Carduelis carduelis,20,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230873,European Greenfinch,Chloris chloris,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230865,Eurasian Kestrel,Falco tinnunculus,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228411578,Eurasian Kestrel,Falco tinnunculus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828299,Eurasian Kestrel,Falco tinnunculus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546089,Eurasian Kestrel,Falco tinnunculus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211830127,Eurasian Kestrel,Falco tinnunculus,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848472,Eurasian Kestrel,Falco tinnunculus,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2213181402,Eurasian Linnet,Linaria cannabina,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826672,European Serin,Serinus serinus,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797451,European Serin,Serinus serinus,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796320,European Serin,Serinus serinus,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848467,European Serin,Serinus serinus,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2219409183,Eurasian Thick-knee,Burhinus oedicnemus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,05/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796296,Eurasian Thick-knee,Burhinus oedicnemus,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797427,Eurasian Thick-knee,Burhinus oedicnemus,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546093,Eurasian Thick-knee,Burhinus oedicnemus,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848459,Eurasian Thick-knee,Burhinus oedicnemus,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826664,Eurasian Thick-knee,Burhinus oedicnemus,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546077,Gray Heron,Ardea cinerea,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796314,Greater Flamingo,Phoenicopterus roseus,35,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848471,Greater Flamingo,Phoenicopterus roseus,36,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230874,Greater Flamingo,Phoenicopterus roseus,500,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546083,Greater Flamingo,Phoenicopterus roseus,200,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211830126,Greater Flamingo,Phoenicopterus roseus,36,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797445,Greater Flamingo,Phoenicopterus roseus,35,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796325,Great Tit,Parus major,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797456,Great Tit,Parus major,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848446,Great Tit,Parus major,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826651,Great Tit,Parus major,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796322,Iberian Green Woodpecker,Picus sharpei,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546085,Iberian Green Woodpecker,Picus sharpei,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826666,Iberian Green Woodpecker,Picus sharpei,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230860,Iberian Green Woodpecker,Picus sharpei,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797453,Iberian Green Woodpecker,Picus sharpei,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2213181403,Iberian Green Woodpecker,Picus sharpei,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848461,Iberian Green Woodpecker,Picus sharpei,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797426,Gull-billed Tern,Gelochelidon nilotica,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796295,Gull-billed Tern,Gelochelidon nilotica,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797444,Eurasian Hoopoe,Upupa epops,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796313,Eurasian Hoopoe,Upupa epops,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2213181395,Eurasian Hoopoe,Upupa epops,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546078,House Sparrow,Passer domesticus,10,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230864,House Sparrow,Passer domesticus,10,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797429,House Sparrow,Passer domesticus,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796298,House Sparrow,Passer domesticus,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848460,House Sparrow,Passer domesticus,20,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826665,House Sparrow,Passer domesticus,20,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245505919,Iberian Gray Shrike,Lanius meridionalis,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828291,Iberian Gray Shrike,Lanius meridionalis,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228408270,Iberian Gray Shrike,Lanius meridionalis,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826649,Kentish Plover,Anarhynchus alexandrinus,12,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796326,Kentish Plover,Anarhynchus alexandrinus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2232808102,Kentish Plover,Anarhynchus alexandrinus,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546099,Kentish Plover,Anarhynchus alexandrinus,10,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797457,Kentish Plover,Anarhynchus alexandrinus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228408275,Kentish Plover,Anarhynchus alexandrinus,5,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848444,Kentish Plover,Anarhynchus alexandrinus,12,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828296,Kentish Plover,Anarhynchus alexandrinus,5,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228411581,Little Owl,Athene noctua,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828302,Little Owl,Athene noctua,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826671,Little Tern,Sternula albifrons,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230868,Little Tern,Sternula albifrons,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797447,Little Tern,Sternula albifrons,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796316,Little Tern,Sternula albifrons,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546087,Little Tern,Sternula albifrons,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848466,Little Tern,Sternula albifrons,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230880,Mediterranean Gull,Ichthyaetus melanocephalus,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2232808109,Mediterranean Gull,Ichthyaetus melanocephalus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230861,Mistle Thrush,Turdus viscivorus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546084,Monk Parakeet,Myiopsitta monachus,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230875,Monk Parakeet,Myiopsitta monachus,8,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797435,Northern Wheatear,Oenanthe oenanthe,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796304,Northern Wheatear,Oenanthe oenanthe,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230862,Pallid Swift,Apus pallidus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546103,Pallid Swift,Apus pallidus,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796309,Pallid Swift,Apus pallidus,15,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797440,Pallid Swift,Apus pallidus,15,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848464,Pied Avocet,Recurvirostra avosetta,9,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546096,Pied Avocet,Recurvirostra avosetta,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230879,Pied Avocet,Recurvirostra avosetta,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828295,Pied Avocet,Recurvirostra avosetta,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826669,Pied Avocet,Recurvirostra avosetta,9,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228408274,Pied Avocet,Recurvirostra avosetta,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797434,Pied Avocet,Recurvirostra avosetta,7,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796303,Pied Avocet,Recurvirostra avosetta,7,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546086,Red-legged Partridge,Alectoris rufa,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2213181407,Red-legged Partridge,Alectoris rufa,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2213612801,Red-necked Nightjar,Caprimulgus ruficollis,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2210576833,Red-necked Nightjar,Caprimulgus ruficollis,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211851922,Red-necked Nightjar,Caprimulgus ruficollis,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2219363025,Red-necked Nightjar,Caprimulgus ruficollis,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,05/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2219387876,Red-necked Nightjar,Caprimulgus ruficollis,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,05/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2213667627,Red-necked Nightjar,Caprimulgus ruficollis,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230881,Red-rumped Swallow,Cecropis daurica,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796310,Red-rumped Swallow,Cecropis daurica,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826660,Red-rumped Swallow,Cecropis daurica,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848455,Red-rumped Swallow,Cecropis daurica,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797441,Red-rumped Swallow,Cecropis daurica,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211918476,Rock Pigeon,Columba livia,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211915201,Rock Pigeon,Columba livia,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797437,Rock Pigeon,Columba livia,8,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546097,Rock Pigeon,Columba livia,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796306,Rock Pigeon,Columba livia,8,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826648,Ruddy Turnstone,Arenaria interpres,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848443,Ruddy Turnstone,Arenaria interpres,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848448,Sardinian Warbler,Curruca melanocephala,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546095,Sardinian Warbler,Curruca melanocephala,7,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796323,Sardinian Warbler,Curruca melanocephala,12,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797454,Sardinian Warbler,Curruca melanocephala,12,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230859,Sardinian Warbler,Curruca melanocephala,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826653,Sardinian Warbler,Curruca melanocephala,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797442,Slender-billed Gull,Chroicocephalus genei,100,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828304,Slender-billed Gull,Chroicocephalus genei,12,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796311,Slender-billed Gull,Chroicocephalus genei,100,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230866,Slender-billed Gull,Chroicocephalus genei,86,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848465,Slender-billed Gull,Chroicocephalus genei,200,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826670,Slender-billed Gull,Chroicocephalus genei,200,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546098,Slender-billed Gull,Chroicocephalus genei,60,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228411583,Slender-billed Gull,Chroicocephalus genei,12,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797449,Spotted Flycatcher,Muscicapa striata,11,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546080,Spotted Flycatcher,Muscicapa striata,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796318,Spotted Flycatcher,Muscicapa striata,11,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2213181397,Spotted Flycatcher,Muscicapa striata,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230863,Spotted Flycatcher,Muscicapa striata,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797458,Spotless Starling,Sturnus unicolor,15,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848468,Spotless Starling,Sturnus unicolor,50,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826673,Spotless Starling,Sturnus unicolor,50,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2245230870,Spotless Starling,Sturnus unicolor,5,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,15/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796327,Spotless Starling,Sturnus unicolor,15,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546094,Spotless Starling,Sturnus unicolor,8,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2232808104,Spotless Starling,Sturnus unicolor,5,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826659,Thekla's Lark,Galerida theklae,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796299,Thekla's Lark,Galerida theklae,6,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848454,Thekla's Lark,Galerida theklae,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797430,Thekla's Lark,Galerida theklae,6,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2213181404,White Wagtail,Motacilla alba,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796317,Woodchat Shrike,Lanius senator,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797448,Woodchat Shrike,Lanius senator,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211826658,Yellow-legged Gull,Larus michahellis,11,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2230828307,Yellow-legged Gull,Larus michahellis,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2228411586,Yellow-legged Gull,Larus michahellis,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,08/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2266546081,Yellow-legged Gull,Larus michahellis,10,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,23/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2211848453,Yellow-legged Gull,Larus michahellis,11,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208796315,Yellow-legged Gull,Larus michahellis,15,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2208797446,Yellow-legged Gull,Larus michahellis,15,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,01/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2232808099,Yellow-legged Gull,Larus michahellis,4,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,09/06/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173339,Barn Swallow,Hirundo rustica,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173329,Black-winged Stilt,Himantopus himantopus,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173327,Western House-Martin,Delichon urbicum,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173334,Common Shelduck,Tadorna tadorna,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173326,Common Swift,Apus apus,5,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173341,Common Wood-Pigeon,Columba palumbus,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173337,Eurasian Blackbird,Turdus merula,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173345,European Goldfinch,Carduelis carduelis,3,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173335,Eurasian Kestrel,Falco tinnunculus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173346,Greater Flamingo,Phoenicopterus roseus,10,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173331,Iberian Gray Shrike,Lanius meridionalis,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173330,Kentish Plover,Anarhynchus alexandrinus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173338,Mediterranean Gull,Ichthyaetus melanocephalus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173342,Montagu's Harrier,Circus pygargus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173333,Monk Parakeet,Myiopsitta monachus,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173344,Spotless Starling,Sturnus unicolor,2,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173328,Whimbrel,Numenius phaeopus,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
+URN:CornellLabOfOrnithology:EBIRD:OBS2287173332,Woodchat Shrike,Lanius senator,1,Laguna de La Mata PNat--Centro de Interpretacion,L6177434,38.0258502,-0.6665611,02/07/2024
