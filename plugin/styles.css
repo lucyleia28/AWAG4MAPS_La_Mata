@@ -1,5 +1,9 @@
 /* General Map */
 
+h2{
+    font-size: 1.2em;
+}
+
 #generalMap {
     display: flex;
 }
